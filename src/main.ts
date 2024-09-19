@@ -1,3 +1,3 @@
-import { Storybook } from "./nested";
+import { Hello } from "./lib";
 
-console.log(Storybook.storybookFunc());
+Hello.helloWorld();
