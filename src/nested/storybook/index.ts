@@ -1,0 +1,1 @@
+export { storybookFunc } from "./storybook";
